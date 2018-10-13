@@ -1,0 +1,23 @@
+.navbar {
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    color: whitesmoke;
+    margin-bottom: 50px;
+    background-color: darkblue;
+    height: auto;
+    font-family: 'Bungee';
+}
+
+#directions {
+    text-align: center;
+}
+
+.pTag {
+    margin: auto 0;
+}
+
+body {
+    background-color: darkslategrey;
+    color: whitesmoke
+}

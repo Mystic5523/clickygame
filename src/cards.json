@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Acid Burn",
+      "image": "/src/img/acidburn.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cereal Killer",
+      "image": "/src/img/cerealkiller.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Crash Override",
+      "image": "/src/img/crashoverride.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dragon",
+      "image": "/src/img/dragon.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Joey",
+      "image": "/src/img/joey.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mr Robot",
+      "image": "/src/img/mrrobot.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Phreak",
+      "image": "/src/img/phreak.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Plague",
+      "image": "/src/img/theplague.jpg"
+    }
+  ]
