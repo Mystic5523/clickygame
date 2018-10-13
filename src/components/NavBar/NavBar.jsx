@@ -5,14 +5,14 @@ class NavBar extends React.Component {
     render() {
         return (
             <div>
-            <nav className="navbar">
-                <span id='navText' className="navbar-text">
-                    React Click Game
+                <nav className="navbar">
+                    <span id='navText' className="navbar-text">
+                        React Click Game
                 </span>
-                <p className="pTag">Score: {this.props.score}</p>
-                <p className="pTag">High Score: {this.props.highScore}</p>
-            </nav>
-            <p id='directions'>Click on an image to earn points, but don't click on any more than once!</p>
+                    <p className="pTag">Score: {this.props.score}</p>
+                    <p className="pTag">High Score: {this.props.highScore}</p>
+                </nav>
+                <p id='directions'>Click on an image to earn points, but don't click on any more than once!</p>
             </div>
         )
     }
